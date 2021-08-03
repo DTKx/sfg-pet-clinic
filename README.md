@@ -5,4 +5,5 @@ This is a Pet Clinic Web App developed during Spring Boot course.
 
 # Installation
 
-#Credits
+# Credits
+
